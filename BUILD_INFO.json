@@ -1,9 +1,9 @@
 {
   "component": "local_videocompress",
-  "version": "1.2.3",
-  "numeric_version": "202601171501",
-  "build_id": "videocompress03w01x003",
-  "build_timestamp": "2026-04-01T07:00:00.000Z",
+  "version": "1.2.5",
+  "numeric_version": "2026011700",
+  "build_id": "281ff3eea9c1b7e1",
+  "build_timestamp": "2026-08-11T00:00:00.000Z",
   "folder": "local_videocompress",
-  "verification": "BUILD_INFO_created_sync_fix"
+  "verification": "10digit-migration-1.2.5"
 }
