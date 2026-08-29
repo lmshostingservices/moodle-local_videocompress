@@ -25,8 +25,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'local_videocompress';
-$plugin->version   = 2026011700;
+$plugin->version   = 2026082901;
 $plugin->requires = 2022112800;
 $plugin->maturity = MATURITY_STABLE;
-$plugin->release = '1.2.5';
+$plugin->release = '1.2.6'; // RELEASE RECOVERY: Republished the reviewed authoritative source under a new immutable tag because the historical tag contained a different source tree. No functional changes.
 $plugin->supported = [400, 405];
